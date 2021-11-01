@@ -37,3 +37,8 @@ The purpose of the congregation shall be to proclaim and propagate the Christian
 == ARTICLE V - MEMBERSHIP IN THE CONGREGATION
 
 . Members of the congregation shall be those who are designated as such at the time that this constitution is adopted, and those who are admitted thereafter; and who maintain their membership in accordance with the provisions of this constitution and its bylaws. There shall be no membership restrictions with respect to race, color, national origin or sex.
+. Members shall be classified as (a) baptized; (b) communicant, but unconfirmed; (c) confirmed; (d) voting.
+.. Baptized members are those persons who have been received by the Sacrament of Holy Baptism in this congregation, or having been previously baptized in the mane of the Triune God, haave been received by proper transfer from other congregations or by affirmation of faith.
+.. Communicant, but unconfirmed members are those who have received training in the meaning and practice of the Lord's Supper and who participate in Communion but who have not yet been confirmed.
+.. Confirmed members are baptized persons who have been confirmed in this congregation, those who have been received by adult Baptism, or by transfer as confirmed members from other congregation, or baptized persons received by affirmation of faith.
+.. Voting members shall be those who are confirmed members in good standing, as provided by the bylaws.
