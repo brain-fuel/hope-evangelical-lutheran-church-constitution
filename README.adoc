@@ -140,16 +140,12 @@ No person shall be eligible to serve in the same capacity on the Church Council 
 .. An unbaptized adult who has received instruction and has given evidence of an adequate understanding and acceptance of the teachings of the Word of God as confessed by the Lutheran Church, shall, upon confession of faith and Baptism, become a baptized member of the congregation.
 .. When one or both parents of baptized children are received into the membership of the congregation such children should be received as baptized members with the consent of the member parents or parents.
 .. When the parents of a baptized child are not themselves members of the Lutheran Church but move into the area served by this congregation and desire to have their child put within the pastoral care of this congregation, the child may be received as a baptized member.
-
-[upperalpha]
 . Confirmed Members
 [arabic]
 .. A baptized adult, not previously a confirmed member of a Lutheran congregation, shall become a confirmed member of this congregation after having received instruction, having given evidence of adequate understanding of the teachings of the Word of God as confessed by the Lutheran Church, and having publicly affirmed his faith.
 .. A baptized member of the congregation shall become a confirmed member through the rite of confirmation, except that an adult who has become a baptized member in accordance with the provisions of section A, 4 of this part of the bylaws shall be considered a confirmed member without participation in the rite of confirmation.
 .. An applicant for membership who presents a Letter of Transfer which certifies that the applicant is a confirmed member in good standing of a Lutheran congregation sahll become a confirmed member of the congregation upon the approval of the Church Council. The acceptance of the applicant shall be reported to the congregation.
 .. An applicant for membership who presents evidence of confirmation in a Lutheran congregation but does not have a Letter of Transfer shall be admitted to confirmed membership when the Church Council has determined that the applicant meets the standards of Christian faith and life indicated in the constitution and bylaws and has reaffirmed that faith before the congregation.
-
-[upperalpha]
 . Voting Members +
 The register of voting member shall be available at all regularly called meetings of the congregation and shall consist of:
 [arabic]
@@ -158,3 +154,9 @@ The register of voting member shall be available at all regularly called meeting
 .. those who participate in the life and worship of the congregation. +
 +
 *Except where it becomes necessary to conform to state law and the legal age of 18.
+. Pastoral Care of Membership
+[arabic]
+.. The congregation shall, in the event of the removal of a member from the community it serves, encourage the member to request transfer to a Lutheran congregation which can serve him or her effectively. Should the member fail to request a transfer, a Lutheran congregation in the community of his residence shall be notified.
+.. A confirmed member in good standing desiring to change his membership to another congregation shall, upon request, receive a Letter of Transfer.
+.. A confirmed member who does not, for a period of 6 months, partake of Holy Communion, and does not appear to desire to participate in the life and worship of the congregation shall be contacted by the pastor or the congregation's officers and encouraged by them to active membership. If, during the next 6 months the confirmed member does not actively participate, that member's name shall be removed from the membership roster of the congregation but be retained on a responsibility list as one who is in special need of the congregation's prayer and concern and be so notified.
+.. A person removed from the membership roster by the preceding action of the bylaws and who desires reinstatement shall make written request to council. Council shall submit such requests to the congregation at the next semi-annual meeting for action. If approved, said person shall be eligible to vote at the following semi-annual congregation metting and be restored to all rights and priviliges of active membership... A child, neither of whose parents of guardians is a member of the congregation, may be removed from the roster of baptized member if that child fails to participate in the life and worship of the congregation.
