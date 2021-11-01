@@ -86,9 +86,14 @@ In exercising discipline as provided in the constitution, the following shall be
 . DUTIES AND RESPONSIBILITIES OF THE COMMITTEES
 [arabic]
 .. stub to fill in
-. MEETINGS OF THE CHURCH COUNCIL
+. MEETINGS OF THE CHURCH COUNCIL +
++
+In addition to the provisions of the constitution, the following shall govern the Church Council in the conduct of its meetings
 [arabic]
-.. stub to fill in
+.. A quorum of any regular or special meeting shall be one-half of the membership.
+.. A member of the Church Council who is absent for two consecutive regular meetings shall be consulted by the president of the congregation; if a member is absent from three consecutive regular meetings without valid excuse, the Church Council may declare the office vacant.
+.. In the event of a vacancy in Church Council, the remaining council members will determine at their next meeting if the vacancy needs to be filled or if the duties of that person can be incorporated with the duties of another council member. If it is necessary to fill the position a temporary replacement will be appointed by Church Council. This appointment will be ratified by a special congregational voters meeting. The congregation will have at least 3 weeks notice before this meeting and may nominate other individuals up until one week before the meeting. No additional nominations will be considered one week before the voters meeting.
+.. A special meeting may be called by the pastor, the president, or any three members of the Church Council. Notice of such meeting shall be given not less than five days prior to the meeting and announced at a public service if one is held during that period.
 . DUTIES AND RESPONSIBILITIES OF THE CHURCH COUNCIL
 [arabic]
 .. Have general oversight of the life and work of the congregation and coordinate the activities of the committees of the congregation;
