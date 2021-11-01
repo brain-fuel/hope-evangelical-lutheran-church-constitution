@@ -133,6 +133,7 @@ No person shall be eligible to serve in the same capacity on the Church Council 
 
 [upperalpha]
 . Baptized Members
+[arabic]
 .. A child, one or both of whose parents or guardians are members of the congregation shall, upon receiving Baptism, become a baptized member.
 .. A child, neither of whose parents or guardians is a member of this congregation, shall upon receiving Baptism, become a baptized member of this congregation, unless for good reason the child is to be a baptized member of another congregation, in which case membership shall be transferred to that congregation.
 .. A child baptized in another congregation shall be received as a baptized member in the congregation when a transfer has been received.
@@ -142,6 +143,7 @@ No person shall be eligible to serve in the same capacity on the Church Council 
 
 [upperalpha]
 . Confirmed Members
+[arabic]
 .. A baptized adult, not previously a confirmed member of a Lutheran congregation, shall become a confirmed member of this congregation after having received instruction, having given evidence of adequate understanding of the teachings of the Word of God as confessed by the Lutheran Church, and having publicly affirmed his faith.
 .. A baptized member of the congregation shall become a confirmed member through the rite of confirmation, except that an adult who has become a baptized member in accordance with the provisions of section A, 4 of this part of the bylaws shall be considered a confirmed member without participation in the rite of confirmation.
 .. An applicant for membership who presents a Letter of Transfer which certifies that the applicant is a confirmed member in good standing of a Lutheran congregation sahll become a confirmed member of the congregation upon the approval of the Church Council. The acceptance of the applicant shall be reported to the congregation.
