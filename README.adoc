@@ -133,7 +133,6 @@ No person shall be eligible to serve in the same capacity on the Church Council 
 
 [upperalpha]
 A. Baptized Members
-
 [indent=2]
 . A child, one or both of whose parents or guardians are members of the congregation shall, upon receiving Baptism, become a baptized member.
 . A child, neither of whose parents or guardians is a member of this congregation, shall upon receiving Baptism, become a baptized member of this congregation, unless for good reason the child is to be a baptized member of another congregation, in which case membership shall be transferred to that congregation.
