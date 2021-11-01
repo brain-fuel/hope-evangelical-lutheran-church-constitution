@@ -1,0 +1,9 @@
+= Contents
+
+== Constitution
+
+The Constitution is contained in the subfolder called `constitution`.
+
+== Bylaws
+
+The Bylaws are contained in the subfolder called `bylaws`.
