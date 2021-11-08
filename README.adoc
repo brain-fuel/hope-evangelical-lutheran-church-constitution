@@ -112,7 +112,7 @@ No person shall be eligible to serve in the same capacity on the Church Council 
 = BYLAWS
 
 == PART I - COMMUNION PARTICIPATION
-(Cf. Article II of Constitution)
+(Cf. <<ARTICLE II - CONFESSION OF FAITH>>)
 
 . This congregation invites all of its members who have been prepared to receive the Sacrament to participate regularly in Holy Communion
 . Preparation for Holy Communion will normally be provided for persons as young as ten years of age.
@@ -123,13 +123,13 @@ No person shall be eligible to serve in the same capacity on the Church Council 
 . Record of participation in Holy Communion shall be maintained. If a member of another congregation communes, notice shall be sent to the pastor of that congregation.
 
 == PART II - CONFLICTING LOYALTIES
-(Cf. Article II of Constitution)
+(Cf. <<ARTICLE II - CONFESSION OF FAITH>>)
 
 . While the buildings of the congregation shall be open to all people to share in its worship, instruction, pastoral care, and fellowship, the congregation rejects all fellowship with organizations which are avowedly religious and which practice forms of religion without confessing faith in the Triune God and in Jesus Christ as the eternal Son of God incarnate to be our only Savior from sin, and which thus teach salvation by works.
 . Ceremonies of such organizations indicated above shall not be permitted in the buildings or premises of the congregation.
 
 == PART III - MEMBERSHIP
-(Cf. Article V of Constitution)
+(Cf. <<ARTICLE V - MEMBERSHIP IN THE CONGREGATION>>)
 
 [upperalpha]
 . Baptized Members
@@ -161,7 +161,7 @@ The register of voting member shall be available at all regularly called meeting
 .. A confirmed member who does not, for a period of 6 months, partake of Holy Communion, and does not appear to desire to participate in the life and worship of the congregation shall be contacted by the pastor or the congregation's officers and encouraged by them to active membership. If, during the next 6 months the confirmed member does not actively participate, that member's name shall be removed from the membership roster of the congregation but be retained on a responsibility list as one who is in special need of the congregation's prayer and concern and be so notified.
 .. A person removed from the membership roster by the preceding action of the bylaws and who desires reinstatement shall make written request to council. Council shall submit such requests to the congregation at the next semi-annual meeting for action. If approved, said person shall be eligible to vote at the following semi-annual congregation metting and be restored to all rights and priviliges of active membership.
 .. A child, neither of whose parents of guardians is a member of the congregation, may be removed from the roster of baptized member if that child fails to participate in the life and worship of the congregation.
-. Discipline (Cf. Article VI of Constitution)
+. Discipline (Cf. <<ARTICLE V - DISCIPLINE>>)
 In exercising discipline as provided in the constitution, the following shall be the procedure:
 [arabic]
 .. The board of elders will be concerned with discipline in the church. Should they become aware of a need for discipline, a member of the elders shall speak with the individual involved with the hope for reconciliation and, if needed, repentance. If the discipline concern remains, the board of elders will seek to have a meeting together with the individual. If the individual will not cooperate in such a meeting, the board of elders will send a registered letter with the reason for the meeting stated and a specific date and time given for the meeting. If after meeting with the individual (or if it has been established that the individual will not cooperate by meeting as described above) the elders unanimously feel that discipline is to be taken, they will make their recommendation to the Church Council.
@@ -169,14 +169,14 @@ In exercising discipline as provided in the constitution, the following shall be
 .. Should the person be found guilty by a two-thirds vote of the members of the Church Council, the Council shall impose suspension from membership and denial of the Sacraments until proof is given of sufficient repentance. The action of the Church Council shall be in writing and delivered by registered letter. The individual's right to appeal to the congregational voters meeting will be described in the same registered mailing. The right to appeal will expire, and the discipline take affect, 30 days after the receipt of the registered mailing.
 
 == PART IV - THE PASTOR
-(Cf. Article VIII of the Constitution)
+(Cf. <<ARTICLE VIII - THE PASTOR>>)
 
 . When the congregation has voted to call a pastor, it shall issue a Letter of Call to the pastor-elect. It shall be signed by the chairman and the secretary of the meeting at which the Call was voted. A Call to a member of the clergy to be an assistant pastor shall be issued only with the concurrence of the pastor of the congregation and in accordance with the provisions of this paragraph.
 . The call shall normally be for an indefinite time. A call issued to an assistant pastor may be for a definite.
 . If a pastor receives a Call to another ministry, the pastor shall consult the Church Council, or, if desired, the congregation, before reaching a decision. The pastor shall announce a decision as quickly a as possible, normally within three weeks. When a Call has been accepted, the pastor's ministry in this congregation shall be terminated as soon as possible, normally within a month.
 
 == PART V - MEETINGS OF THE CONGREGATION
-(Cf. Article IX of the Constitution)
+(Cf. <<ARTICLE IX - MEETINGS OF THE CONGREGATION>>)
 
 . Announcement of the time and place of the semi-annual meetings of the congregation shall be made at two public services immediately preceding the meeting, said services to be at least a week apart, and in such publications as the congregation or the pastor may periodically issue, or by written notice to the voting members mailed not less than ten days in advance of the meeting.
 . The current rosters of voting, confirmed, and baptized members shall be available at each meeting to the congregation.
@@ -185,7 +185,7 @@ In exercising discipline as provided in the constitution, the following shall be
 . Unless otherwise ordered, parliamentary procedures shall be in accordance with Robert's Rules of Order.
 
 == PART VI - OFFICERS, COMMITTEES AND ELDERS
-(Cf. Article X of the Constitution)
+(Cf. <<ARTICLE X - OFFICERS, COMMITTEES AND ELDERS>>)
 
 [upperalpha]
 . ELIGIBILITY AND DUTIES OF MEMBERS OF CHURCH COUNCIL
