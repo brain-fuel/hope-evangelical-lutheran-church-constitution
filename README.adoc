@@ -100,7 +100,7 @@ No person shall be eligible to serve in the same capacity on the Church Council 
 
 == ARTICLE XII - AMENDMENTS
 
-. The doctrinal basis and the confessional subscription contained in Article II, and this paragraph of Article XII shall be unalterable; and no amendment to this constitution shall conflict therewith.
+. The doctrinal basis and the confessional subscription contained in xref:ARTICLE II - CONFESSION OF FAITH[Article II], and this paragraph of xref:ARTICLE XII - AMENDMENTS[Article XII] shall be unalterable; and no amendment to this constitution shall conflict therewith.
 . A proposed amendment to this constitution shall be:
 .. read at a public service of the congregation or mailed to the voting members not less than thirty days before the legally called meeting at which it is to be considered;
 .. approved without change at the legally called meeting following its announcement, by a majority vote of those present and voting;
@@ -175,7 +175,7 @@ In exercising discipline as provided in the constitution, the following shall be
 . Announcement of the time and place of the semi-annual meetings of the congregation shall be made at two public services immediately preceding the meeting, said services to be at least a week apart, and in such publications as the congregation or the pastor may periodically issue, or by written notice to the voting members mailed not less than ten days in advance of the meeting.
 . The current rosters of voting, confirmed, and baptized members shall be available at each meeting to the congregation.
 . The semi-annual meetings shall receive reports from all the committees of the congregation. Such reports, including a financial statement, shall be submitted in writing to the pastor not less than ten days before the meeting.
-. Elections shall be held in accordance with Article X of this Constitution.
+. Elections shall be held in accordance with xref:ARTICLE X - OFFICERS, COMMITTEES AND ELDERS[Article X] of this Constitution.
 . Unless otherwise ordered, parliamentary procedures shall be in accordance with Robert's Rules of Order.
 
 == PART VI - OFFICERS, COMMITTEES AND ELDERS
