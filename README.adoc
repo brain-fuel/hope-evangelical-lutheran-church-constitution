@@ -4,7 +4,7 @@ In the name of the Father, and of the Son, and of the Holy Spirit, Amen.
 
 == Preamble
 
-Recognizing our unity in Christ and our common practice in the Christian faith; desiring to express our fellowship in worship and work; knowing our spiritual needs; mindful of our Christian priviliges and duties, and wishing to observe orderly cooperation, we adopt the following constitution:
+Recognizing our unity in Christ and our common practice in the Christian faith; desiring to express our fellowship in worship and work; knowing our spiritual needs; mindful of our Christian privileges and duties, and wishing to observe orderly cooperation, we adopt the following constitution:
 
 == ARTICLE I - NAME AND INCORPORATION
 
@@ -38,7 +38,7 @@ The purpose of the congregation shall be to proclaim and propagate the Christian
 
 . Members of the congregation shall be those who are designated as such at the time that this constitution is adopted, and those who are admitted thereafter; and who maintain their membership in accordance with the provisions of this constitution and its bylaws. There shall be no membership restrictions with respect to race, color, national origin or sex.
 . Members shall be classified as (a) baptized; (b) communicant, but unconfirmed; (c) confirmed; (d) voting.
-.. Baptized members are those persons who have been received by the Sacrament of Holy Baptism in this congregation, or having been previously baptized in the mane of the Triune God, haave been received by proper transfer from other congregations or by affirmation of faith.
+.. Baptized members are those persons who have been received by the Sacrament of Holy Baptism in this congregation, or having been previously baptized in the mane of the Triune God, have been received by proper transfer from other congregations or by affirmation of faith.
 .. Communicant, but unconfirmed members are those who have received training in the meaning and practice of the Lord's Supper and who participate in Communion but who have not yet been confirmed.
 .. Confirmed members are baptized persons who have been confirmed in this congregation, those who have been received by adult Baptism, or by transfer as confirmed members from other congregation, or baptized persons received by affirmation of faith.
 .. Voting members shall be those who are confirmed members in good standing, as provided by the bylaws.
@@ -81,7 +81,7 @@ At a special meeting held in May, the congregation shall elect individuals to fi
 . Vice-President who serves in this capacity for one year and assumes the presidency the following year. During the year of serving as Vice-President, this person may also serve in another council position.
 . Secretary for a two year term and is elected in even years.
 . Treasurer for a two year term and is elected in odd years.
-. and the chairpeople of the following committees for a one year term. The council may decide to combine one or more committees for a particular term. If so, there would be one chairperson for that combined committee with one vote on the council:
+. and the chairs of the following committees for a one year term. The council may decide to combine one or more committees for a particular term. If so, there would be one chairperson for that combined committee with one vote on the council:
 .. Elders
 .. Outreach/Mission
 .. Worship
@@ -91,7 +91,7 @@ At a special meeting held in May, the congregation shall elect individuals to fi
 .. Fellowship
 . Elders for two year terms. The number to serve as elder will vary with the size of the congregation as indicated in the bylaws.
 
-No person shall be eligible to serve in the same capacity on the Church Council for more than four (4) successive terms. The duties of the officers and elders of the congregation shall be those provided in the bylaws. The officers of the congregation and the chairpeople of the committees together with the pastor shall constitute the Church Council. The president, the vice-president, and secretary of the congregation shall serve in those same as president, vice-president, and secretary of the Church Council respectively.
+No person shall be eligible to serve in the same capacity on the Church Council for more than four (4) successive terms. The duties of the officers and elders of the congregation shall be those provided in the bylaws. The officers of the congregation and the chairs of the committees together with the pastor shall constitute the Church Council. The president, the vice-president, and secretary of the congregation shall serve in those same as president, vice-president, and secretary of the Church Council respectively.
 
 == ARTICLE XI - BYLAWS
 
@@ -141,7 +141,7 @@ No person shall be eligible to serve in the same capacity on the Church Council 
 . Confirmed Members
 .. A baptized adult, not previously a confirmed member of a Lutheran congregation, shall become a confirmed member of this congregation after having received instruction, having given evidence of adequate understanding of the teachings of the Word of God as confessed by the Lutheran Church, and having publicly affirmed his faith.
 .. A baptized member of the congregation shall become a confirmed member through the rite of confirmation, except that an adult who has become a baptized member in accordance with the provisions of section A, 4 of this part of the bylaws shall be considered a confirmed member without participation in the rite of confirmation.
-.. An applicant for membership who presents a Letter of Transfer which certifies that the applicant is a confirmed member in good standing of a Lutheran congregation sahll become a confirmed member of the congregation upon the approval of the Church Council. The acceptance of the applicant shall be reported to the congregation.
+.. An applicant for membership who presents a Letter of Transfer which certifies that the applicant is a confirmed member in good standing of a Lutheran congregation shall become a confirmed member of the congregation upon the approval of the Church Council. The acceptance of the applicant shall be reported to the congregation.
 .. An applicant for membership who presents evidence of confirmation in a Lutheran congregation but does not have a Letter of Transfer shall be admitted to confirmed membership when the Church Council has determined that the applicant meets the standards of Christian faith and life indicated in the constitution and bylaws and has reaffirmed that faith before the congregation.
 . Voting Members +
 The register of voting member shall be available at all regularly called meetings of the congregation and shall consist of:
@@ -154,7 +154,7 @@ The register of voting member shall be available at all regularly called meeting
 .. The congregation shall, in the event of the removal of a member from the community it serves, encourage the member to request transfer to a Lutheran congregation which can serve him or her effectively. Should the member fail to request a transfer, a Lutheran congregation in the community of his residence shall be notified.
 .. A confirmed member in good standing desiring to change his membership to another congregation shall, upon request, receive a Letter of Transfer.
 .. A confirmed member who does not, for a period of 6 months, partake of Holy Communion, and does not appear to desire to participate in the life and worship of the congregation shall be contacted by the pastor or the congregation's officers and encouraged by them to active membership. If, during the next 6 months the confirmed member does not actively participate, that member's name shall be removed from the membership roster of the congregation but be retained on a responsibility list as one who is in special need of the congregation's prayer and concern and be so notified.
-.. A person removed from the membership roster by the preceding action of the bylaws and who desires reinstatement shall make written request to council. Council shall submit such requests to the congregation at the next semi-annual meeting for action. If approved, said person shall be eligible to vote at the following semi-annual congregation metting and be restored to all rights and priviliges of active membership.
+.. A person removed from the membership roster by the preceding action of the bylaws and who desires reinstatement shall make written request to council. Council shall submit such requests to the congregation at the next semi-annual meeting for action. If approved, said person shall be eligible to vote at the following semi-annual congregation meeting and be restored to all rights and privileges of active membership.
 .. A child, neither of whose parents of guardians is a member of the congregation, may be removed from the roster of baptized member if that child fails to participate in the life and worship of the congregation.
 . Discipline (Cf. xref:ARTICLE VI - DISCIPLINE[Article VI of the Constitution])
 In exercising discipline as provided in the constitution, the following shall be the procedure:
@@ -197,7 +197,7 @@ In exercising discipline as provided in the constitution, the following shall be
 .... shall be involved in a regular schedule of visitations to prospective members
 .... shall be concerned with the work of the church throughout the world
 ... Worship Committee
-.... shall be concerned with the orderly conduct of the worship service. The committee shall be responsible for: ushers, acolytes, greeters, nursery, music and choir robes, altar and vestiments, flowers, hymnals, bulletins, communion, seasonal celebrations - Lent, Palm Sunday, Easter, Pentecost, Reformation, Advent, Christmas and all other days of celebration in the church year.
+.... shall be concerned with the orderly conduct of the worship service. The committee shall be responsible for: ushers, acolytes, greeters, nursery, music and choir robes, altar and vestments, flowers, hymnals, bulletins, communion, seasonal celebrations - Lent, Palm Sunday, Easter, Pentecost, Reformation, Advent, Christmas and all other days of celebration in the church year.
 ... Education Committee
 .... shall set up and supervise the Sunday School (teachers, materials, teaching aids, and programs
 .... shall conduct a Bible school during a summer vacation
@@ -205,7 +205,7 @@ In exercising discipline as provided in the constitution, the following shall be
 .... shall provide for catechism instruction
 ... Stewardship Committee
 .... shall elect a financial secretary
-.... shall encourge a stewardship education
+.... shall encourage a stewardship education
 .... shall be responsible for the audit of financial records
 ... Property Committee
 .... shall maintain the church building and its premises
@@ -240,7 +240,7 @@ The Board of Elders will serve as the nominating committee. At a time at least 8
 +
 While either men or women may serve on this board, there are certain duties limited to men (defined in section H) due to how they pertain to the public office of the pastoral ministry. +
 +
-The nature of the duties of an elder requires that only those notted for their Christian knowledge, zeal, and experience in the spiritual work of Christ shall be elected. To be eligible to be an elder, someone must have served at least one full term on our Church Council and currently be regular in attendance at worship services and a Bible class. +
+The nature of the duties of an elder requires that only those noted for their Christian knowledge, zeal, and experience in the spiritual work of Christ shall be elected. To be eligible to be an elder, someone must have served at least one full term on our Church Council and currently be regular in attendance at worship services and a Bible class. +
 +
 The Board of Elders will all be elected by the congregation and will each serve two year terms. The size of the Board of Elders will reflect the size of the congregation with one elder for up to or a fraction of every 80 baptized members of the congregation roster with a minimum of 3 elders. +
 +
@@ -259,7 +259,7 @@ The Board of Elders does not make final decisions, but will give recommendations
 
 +
 In keeping with teachings of the Lutheran Church Missouri Synod, the pastoral office is Scripturally narrowed to men. Therefore, only a man would be allowed to deliver a sermon or lead the worship service. It is also our intent to heed the strong recommendation of the Synod's Commission on Theology and Church Relations when it states: +
-"While some might argue that assisting the presiding minister in the distribution of the elements is not necesarily a distinctive function of the pastoral office, the commission strongly recommends that, to avoid confusion regarding the offce of the public ministry and to avoid giving offense to the church, such assistance be limited to men" (_Women in the Church,_ Commission on Theology and Church Relations, Lutheran Church Missouri Synod, September 1985, page 47)
+"While some might argue that assisting the presiding minister in the distribution of the elements is not necessarily a distinctive function of the pastoral office, the commission strongly recommends that, to avoid confusion regarding the office of the public ministry and to avoid giving offense to the church, such assistance be limited to men" (_Women in the Church,_ Commission on Theology and Church Relations, Lutheran Church Missouri Synod, September 1985, page 47)
 . NOMINATIONS AND ELECTION PROCESS FOR BOARD OF ELDERS +
 + 
 When elders are to be elected, the Church Council will serve as the nominating committee for the nomination of elders. At a time at least 8 weeks before the May voters meeting, the nominating committee will make known to the congregation the positions which need to be filled. Members of the congregation will make their nominees, and/or their personal desire to serve, known to the nominating committee. Unless the person does not fit the criteria for an elder described above, the nominating committee will speak with the nominee about the position and whether the individual will accept the nomination. The nominating committee will also meet to consider who they would like to nominate for elder and speak with those individuals. The results of the nominating committee will be published at least 2 weeks before the voters meeting. No additional nominations will be considered one week before the voters meeting.
